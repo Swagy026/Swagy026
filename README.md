@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwani 
 - 👀 I’m interested in data learning 
-- 🌱 I’m currently learning about data engineering 
+- 🌱 I’m currently learning about data analysis 
 - 💞️ I’m looking to collaborate on anything realted to DE field 
 - 📫 How to reach me - swagy0695@gmail.com
 - 😄 Pronouns: ... he/him
