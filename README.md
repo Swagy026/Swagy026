@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashwani 
 - 👀 I’m interested in data learning 
 - 🌱 I’m currently learning about data analysis 
-- 💞️ I’m looking to collaborate on anything realted to DE field 
+- 💞️ I’m looking to collaborate on anything realted to DA field 
 - 📫 How to reach me - swagy0695@gmail.com or ashwanikumarchaudhary199@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I can analyze data faster than most people can make a cup of coffee ☕📊
